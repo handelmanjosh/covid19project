@@ -19,4 +19,4 @@ The novelty of this simulation is threefold.
 3. People are represented as individuals, not as part of a group like in compartmental models
 
 
-In the simulation itself, there are a lot of parameters that can be changed. I could not run all tests at the same time due to computational limitations, so I would change different parameters, making different files that I could run on my different computers.
+In the simulation itself, there are a lot of parameters that can be changed. I could not run all tests at the same time due to computational limitations, so I would change different parameters, making different files that I could run on my different computers. A whole bunch of possible variations were just added. 

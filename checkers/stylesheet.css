@@ -1,0 +1,51 @@
+.boardAreas {
+    width: 12.5%;
+    height:12.5%;
+    float: left;
+    position: relative;
+    z-index: 1;
+
+}
+.checker {
+    position: relative;
+    border-radius: 100%;
+    z-index: 2;
+    width: 70%;
+    height:80%;
+    margin: 7% auto;
+}
+.checker:hover {
+    
+}
+.checker0 {
+    background-color: white;
+}
+.checker1 {
+    background-color: black;
+}
+.boardAreas:hover {
+    background-color: aqua;
+}
+.boardArea0 {
+    background-color: burlywood;
+}
+.boardArea1 {
+    background-color: brown;
+}
+.margin {
+    min-width: 20%;
+    min-height: 1vh;
+    float: left;
+}
+.board {
+    background-color: chartreuse;
+    width:60%;
+    max-height: 60vw;
+    height: 98vh;
+    float: left;
+    position: relative;
+    z-index: -1;
+}
+@media screen and (max-width: 800px) {
+
+}
